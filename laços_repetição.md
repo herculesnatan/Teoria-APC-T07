@@ -3,7 +3,7 @@
 
 ##### Antes de falar sobre **FOR** ou **WHILE**, vamos entender o que é uma estrutura de repetição.
 
-##### Nas linguagens de programação, existem estruturas para executar um determinado bloco de códigos por uma quantidade de vezes determinada por uma condição (**While**) ou por uma quantidade de vezes (**for**).
+##### Nas linguagens de programação, existem estruturas para executar um determinado bloco de códigos por uma quantidade de vezes determinada por uma condição (**While**) ou por uma quantidade de vezes (**for**). 🧑‍💻
 
 ##### Agora com uma noção do que é uma estrutura de repetição, vamos começar a falar da estrutura de repetição **FOR**.
 
@@ -56,3 +56,4 @@ while flag:
 ##### Vamos entender o que este código faz: no **while** colocamos a nossa flag que tem o valor de True para inicar o laço de repetição, em seguida um input para receber um número para realizar uma comparação.
 ##### Na condição **if** fazemos uma comparação se o número é igual a um número aleatório que escolhi. Se essa condição for verdadeira, ele entra na condição e escreve que você acertou o número, "baixa" a bandeira e da um break para ENCERRAR o laço de repetição. 
 ##### Essa **flag** funciona como uma corrida de carros: enquanto a bandeira está verde, os carros continuam dando voltas na pista. Assim que a última volta é alcançada, a bandeira final é levantada, sinalizando que é hora de parar. Nesse código, a bandeira verde representa a condição verdadeira (True) que mantém o laço funcionando. Quando o número certo é digitado, o programa "muda a bandeira" para parar a repetição.
+
