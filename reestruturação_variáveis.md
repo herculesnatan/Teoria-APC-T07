@@ -1,5 +1,5 @@
 
-# Reatribuição de valores em variáveis
+# Reatribuição de valores em variáveis 🔄
 
 Observe o seguinte caso: você está tentando resolver um problema em que recebe várias entradas e a cada nova entrada precisa analisar se o valor recebido é maior ou não que valor da variável atual. Talvez ainda esteja um pouco confuso tudo isso, mas irei tentar exemplificar melhor.
 
